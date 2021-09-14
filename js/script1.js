@@ -13,5 +13,5 @@ console.log('I am enrolled in '+ +subject)
     }
 }
 
-let russell = myself('Russell', 'Pondivida', 21, 'ICS2609');
-russell.introduce();
+let russ = myself('Russell', 'Pondivida', 21, 'ICS2609');
+russ.introduce();
